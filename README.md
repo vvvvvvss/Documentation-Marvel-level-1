@@ -13,7 +13,7 @@ Predicting the spices of a given iris using the sepal width and length and petal
 Each value we are predicting becomes the response here called the target.
 
 ## TASK 2 Matplotlib and Data Visualisation
-https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)
 https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png
 https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png
 
