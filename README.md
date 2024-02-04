@@ -14,8 +14,9 @@ Each value we are predicting becomes the response here called the target.
 
 ## TASK 2 Matplotlib and Data Visualisation
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)
-https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png
-https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png)
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png)
+
 
 
 ## TASK 3
