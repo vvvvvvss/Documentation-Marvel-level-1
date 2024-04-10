@@ -21,7 +21,7 @@ Each value we are predicting becomes the response here called the target.
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.3.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.4.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.5.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.7.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.5.1.png)
@@ -51,10 +51,10 @@ Here is the code: https://github.com/vvvvvvss/Regression-matrices
 Linear And Logistic Regression from scratch implies building an algorthm for the same without relayimg on pre-built libraries or functions. This involves learning of the mathematical aspects behind the algorthm.    
 Linear regression aims at finding the best fit straight line that passes through the given data. This straight line provides the relationship between the independent variables and dependent variables. Simple linear regression can be written as      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/d0c97d2c-d500-4ab1-b100-8a1f8b200bd1)     
-The cost function, also known as the loss function, measures the difference between the predicted values and the actual values. In linear regression, the commonly used cost function is Mean Squared Error (MSE).
+The cost function, also known as the loss function, measures the difference between the predicted values and the actual values. In linear regression, the commonly used cost function is Mean Squared Error (MSE).     
 Here is the code: https://github.com/vvvvvvss/Linear_regression_from_SCRATCH      
 Logistic regression models the probability that a given input belongs to a particular category. It's commonly used for binary classification problems, where the output variable has two possible outcomes, i.e, 0 or 1.  In logistic regression, the logistic function which is also a sigmoid function is used to map the input features to probabilities between 0 and 1. The logistic function is defined as:   
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/4b334730-f393-4058-affb-7e2d7637a423)
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/4b334730-f393-4058-affb-7e2d7637a423)     
 Here is the code: https://github.com/vvvvvvss/Logistic_Regression_from_SCRATCH
 
 
