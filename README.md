@@ -70,9 +70,9 @@ Euclidean distance is used to calculate the distance between the new instance (o
 Here is the code: https://github.com/vvvvvvss/K--Nearest-Neighbor-Algorithm
 
 ## Task 7 - An elementary step towards understanding Neural Network
-Neural networks are computational systems inspired by the structure and functioning of the human brain. They are the fundamental component of many Machine learning models. One can find their applicaion in image detection, speech recognition etc. ANNs and CNNs come under the types of neural networks
-Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/NeuralNetworks.md
-Large Language Models aka LLMs are built on machine learning, specifically a type of neural network called a transformer model. They can recognize and generate text, and can be used for a number of tasks including writing code, summarizing, translation.
+Neural networks are computational systems inspired by the structure and functioning of the human brain. They are the fundamental component of many Machine learning models. One can find their applicaion in image detection, speech recognition etc. ANNs and CNNs come under the types of neural networks.       
+Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/NeuralNetworks.md      
+Large Language Models aka LLMs are built on machine learning, specifically a type of neural network called a transformer model. They can recognize and generate text, and can be used for a number of tasks including writing code, summarizing, translation.        
 Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/LLMs.md
 
 
