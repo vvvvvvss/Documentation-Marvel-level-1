@@ -86,3 +86,14 @@ Fourier transforms are found in almost everything these days, from digital music
 Here is the code: [https://github.com/vvvvvvss/Fourier-transformers](https://github.com/vvvvvvss/Fourier-transformers/blob/main/Fourier.ipynb)
 
 
+# Task 9: Data Visualization for Exploratory Data Analysis
+Plotly is a dynamic tool, much better than others like matplotlib and seaborn for data visualization. Here is a scatter, bar, histogram and a box plot on the classic Iris dataset and a 3D plot on a random data: https://github.com/vvvvvvss/data-visualization/blob/main/datavisualization.ipynb
+
+# Task 10: An introduction to Decision Trees
+Decision trees are a branch of superivised machine learning. It is an important classification and regression tool. Here is a prediction of one getting a salary higher than 100k analyzing parameters like compay, company location, work year, job title etc: 
+https://github.com/vvvvvvss/decisiontrees/blob/main/decisiontrees.ipynb
+
+# Task 10: Exploration of a Real world application of Machine Learning
+Project: Customer Churn Prediction for a Subscription-based Service    
+The objective of this project is to develop a predictive model to identify customers who are at risk of churning (canceling their subscription) for a subscription-based service, such as a streaming platform, telecommunications provider, or software-as-a-service (SaaS) product using Machine Learning algorthm. 
+Here is the case study: https://github.com/vvvvvvss/case-study
