@@ -65,10 +65,24 @@ Here is the code: https://github.com/vvvvvvss/Logistic_Regression_from_SCRATCH
 ## Task 6 - K-Nearest Neighbors
 K-Nearest Neighbors (KNN) is a simple yet powerful algorithm used for both classification and regression tasks in machine learning. It's a type of instance-based learning, also known as lazy learning, where the algorithm doesn't explicitly build a model. Instead, it memorizes the entire training dataset and makes predictions based on the similarity of new instances to the existing data points. KNN calculates the distance between the new instance (or query point) and every point in the training dataset. Common distance metrics used include Euclidean distance. After calculating distances, KNN identifies the K nearest neighbors to the new instance. KNN often employs a simple majority voting rule for classification. In regression, the predicted value is the mean (or weighted mean) of the target values of the K nearest neighbors. To evaluate the performance of the KNN model, you typically use techniques such as cross-validation, where you partition the dataset into training and testing sets and measure metrics like accuracy, precision, recall, F1-score (for classification), or Mean Squared Error (MSE) (for regression).     
 ### KNN from scratch    
-Euclidean distance is used to calculate the distance between the new instance (or query point) and every point in the training dataset. The dataset is then loaded, if necessary. Ensure that the data is in a format suitable for distance calculations. Use majority voting to assign the class label to the new instance. Take the average (or weighted average) of the target values of the K nearest neighbors for regression.     
+Euclidean distance is used to calculate the distance between the new instance (or query point) and every point in the training dataset. The dataset is then loaded, if necessary. Ensure that the data is in a format suitable for distance calculations. Use majority voting to assign the class label to the new instance. Take the average (or weighted average) of the target values of the K nearest neighbors for regression.
+
 Here is the code: https://github.com/vvvvvvss/K--Nearest-Neighbor-Algorithm
 
+## Task 7 - An elementary step towards understanding Neural Network
+Neural networks are computational systems inspired by the structure and functioning of the human brain. They are the fundamental component of many Machine learning models. One can find their applicaion in image detection, speech recognition etc. ANNs and CNNs come under the types of neural networks
+Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/NeuralNetworks.md
+Large Language Models aka LLMs are built on machine learning, specifically a type of neural network called a transformer model. They can recognize and generate text, and can be used for a number of tasks including writing code, summarizing, translation.
+Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/LLMs.md
 
-​
+
+## Task 8 - Mathematics behind machine learning
+Curve fitting: Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points.
+Here is the code: https://github.com/vvvvvvss/curve-fitting
+Fourier Transforms: Fourier Transform is a mathematical model which helps to transform the signals between two different domains, such as transforming signal from frequency domain to time domain or vice versa. 
+Fourier transforms are found in almost everything these days, from digital music to quantum mechanics to image recognition. In simple terms, a fourier transfomer simplifies a wave into a sum of sine and cosine waves    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/895dc818-2c1e-4afc-a4f2-4e250fe8491a)       
+
+Here is the code: [https://github.com/vvvvvvss/Fourier-transformers](https://github.com/vvvvvvss/Fourier-transformers/blob/main/Fourier.ipynb)
 
 
