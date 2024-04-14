@@ -127,6 +127,5 @@ Decision trees are a branch of superivised machine learning. It is an important 
 https://github.com/vvvvvvss/decisiontrees/blob/main/decisiontrees.ipynb
 
 # Task 11: Exploration of a Real world application of Machine Learning
-Project: Customer Churn Prediction for a Subscription-based Service    
-The objective of this project is to develop a predictive model to identify customers who are at risk of churning (canceling their subscription) for a subscription-based service, such as a streaming platform, telecommunications provider, or software-as-a-service (SaaS) product using Machine Learning algorthm. 
+Machine learning (ML) can be used to predict traffic flow and congestion patterns in real-time based on large amounts of traffic data. These predictions can help improve transportation systems and reduce economic losses. 
 Here is the case study: https://github.com/vvvvvvss/case-study
