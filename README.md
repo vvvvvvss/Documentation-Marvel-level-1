@@ -62,7 +62,7 @@ MAE - Mean Absolute Error:
 It calculates the average absolute differences between the actual and predicted values.       
 ![1_m0O6zXxx9v8S3b1buUWBog](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/58133c62-b955-4b0a-95ce-75b965e58d8c)
 R2 - R-Squared Error:
-This metric explains the proportion of the variance in the dependent variable that is predictable from the independent variables. R-squared values range from 0 to 1, where 1 indicates a perfect fit.
+R-squared is a statistical measure that represents the goodness of fit of a regression model. The value of R-square lies between 0 to 1. Where we get R-square equals 1 when the model perfectly fits the data and there is no difference between the predicted value and actual value. 
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/53daa9c3-b179-4165-aca8-5fb91b63cb3b)         
 Here is the code: https://github.com/vvvvvvss/Regression-matrices.
 ### Classification Matrices
