@@ -52,7 +52,7 @@ NumPy is a library for the Python programming language, that adds support for la
 
 
 ## Task 4 - Metrics and Performance Evaluation
-Metrices helps in evaluating performances.      
+To evaluate the performance or quality of the model, different metrics are used, and these metrics are known as performance metrics or evaluation metrics.      
 ### Regression Matrices
 Regression matrices are supervised machine learning models. Some common regression models are   
 MSE - Mean Squared Error:   
