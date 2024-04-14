@@ -1,8 +1,10 @@
 # Documentation-Marvel-level-1
 ## TASK 1- Linear and Logistic Regression - HelloWorld for AIML
-### Linear Regression- Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
+### Linear Regression- 
+Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
 Linear regression predicts the relationship between two variables by assuming a linear connection between the independent and dependent variables.   
-I split our dataset into train and test sets (80% for training, and 20% for testing).
+I split our dataset into train and test sets (80% for training, and 20% for testing).       
+Here is the code: https://github.com/vvvvvvss/Linear-regression/blob/main/linear%20(1).ipynb
 
 ### Logistic Regression-
 The data tells that there are 3 different species of iris
@@ -10,9 +12,11 @@ setosa: represented by 0
 versicolor: represnted by 1
 virginica: represented by 2
 Predicting the spices of a given iris using the sepal width and length and petal width and length.
-Each value we are predicting becomes the response here called the target.
+Each value we are predicting becomes the response here called the target.      
+Here is the code: https://github.com/vvvvvvss/Logistic-regression/blob/main/Logistic%20regression.ipynb
 
 ## TASK 2 Matplotlib and Data Visualisation
+Matplotlib is a plotting and data visualizing library for python programming. Using matplotlib, here are some plots on various datasets:      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png)
@@ -35,7 +39,9 @@ NumPy is a library for the Python programming language, that adds support for la
 
 
 ## Task 4 - Metrics and Performance Evaluation
-Metrices helps in evaluating performenaces. Regression matrices are supervised machine learning models. Some common regression models are   
+Metrices helps in evaluating performances.      
+### Regression Matrices
+Regression matrices are supervised machine learning models. Some common regression models are   
 MSE - Mean Squared Error:   
 It measures the average squared difference between the actual and predicted values. Lower values indicate better performance.The squaring is critical to reduce the complexity with negative signs. To minimize MSE, the model could be more accurate, which would mean the model is closer to actual data.           
 ![Etuc3lBXcAEH7wO](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/355e3c60-7d28-4737-9bce-739e155c2896)       
@@ -45,7 +51,16 @@ It calculates the average absolute differences between the actual and predicted 
 R2 - R-Squared Error:
 This metric explains the proportion of the variance in the dependent variable that is predictable from the independent variables. R-squared values range from 0 to 1, where 1 indicates a perfect fit.
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/53daa9c3-b179-4165-aca8-5fb91b63cb3b)         
-Here is the code: https://github.com/vvvvvvss/Regression-matrices
+Here is the code: https://github.com/vvvvvvss/Regression-matrices.
+### Classification Matrices
+In machine learning, classification is the process of categorizing a given set of data into different categories. For classification we make use of a confusion matrix. It is a mean of displaying the number of accurate and inaccurate instances based on the model’s predictions.      
+he matrix displays the number of instances produced by the model on the test data.
+
+True positives (TP): occur when the model accurately predicts a positive data point.       
+True negatives (TN): occur when the model accurately predicts a negative data point.     
+False positives (FP): occur when the model predicts a positive data point incorrectly.    
+False negatives (FN): occur when the model predicts a negative data point incorrectly.    
+Here is the code: https://github.com/vvvvvvss/classification-matrices/blob/main/code.py
 
 ## Task 5 - Linear And Logistic Regression from scratch
 Linear And Logistic Regression from scratch implies building an algorthm for the same without relayimg on pre-built libraries or functions. This involves learning of the mathematical aspects behind the algorthm.    
