@@ -73,6 +73,8 @@ True positives (TP): occur when the model accurately predicts a positive data po
 True negatives (TN): occur when the model accurately predicts a negative data point.     
 False positives (FP): occur when the model predicts a positive data point incorrectly.    
 False negatives (FN): occur when the model predicts a negative data point incorrectly.    
+![1_Z54JgbS4DUwWSknhDCvNTQ](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/dd334bba-a737-4545-9628-33e61b23bcb4)        
+
 Here is the code: https://github.com/vvvvvvss/classification-matrices/blob/main/code.py
 
 ## Task 5 - Linear And Logistic Regression from scratch
