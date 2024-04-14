@@ -18,17 +18,29 @@ Here is the code: https://github.com/vvvvvvss/Logistic-regression/blob/main/Logi
 
 ## TASK 2 - Matplotlib and Data Visualisation
 Matplotlib is a plotting and data visualizing library for python programming. Using matplotlib, here are some plots on various datasets:      
+#### Simple sine and cosine wave     
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.1.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.2.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.3.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.4.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.5.png)
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)      
+#### Line plot        
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)       
+#### Scatter plot         
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png)      
+#### Bar plot     
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.1.png)      
+#### Stacked bar plot    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.2.png)    
+#### Voilen plot        
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.3.png)     
+#### Marginal plot    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.4.png)    
+#### 3D plot    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.5.png)      
+#### Filled Counter plot    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)    
+#### Unfilled Counter plot    
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.png)    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.7.png)    
+#### Heat map plot    
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.7.png)        
+#### Histogram plot
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.5.1.png)       
 Here is the code: https://github.com/vvvvvvss/Matplotlib-and-Data-Visualisation
 
