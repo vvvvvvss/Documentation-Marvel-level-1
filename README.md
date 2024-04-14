@@ -8,7 +8,7 @@ Here is the code: https://github.com/vvvvvvss/Linear-regression/blob/main/linear
 
 ### Logistic Regression-
 Logistic regression estimates the probability of an event occuring. It provides a binary output, i.em 0 or 1.   
-The data tells that there are 3 different species of iris
+The data tells that there are 3 different species of iris     
 setosa: represented by 0    
 versicolor: represnted by 1     
 virginica: represented by 2       
