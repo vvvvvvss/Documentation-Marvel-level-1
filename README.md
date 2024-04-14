@@ -16,7 +16,7 @@ Predicting the spices of a given iris using the sepal width and length and petal
 Each value we are predicting becomes the response here called the target.      
 Here is the code: https://github.com/vvvvvvss/Logistic-regression/blob/main/Logistic%20regression.ipynb
 
-## TASK 2 Matplotlib and Data Visualisation
+## TASK 2 - Matplotlib and Data Visualisation
 Matplotlib is a plotting and data visualizing library for python programming. Using matplotlib, here are some plots on various datasets:      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)
@@ -29,8 +29,8 @@ Matplotlib is a plotting and data visualizing library for python programming. Us
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.png)    
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.7.png)    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.5.1.png)    
-
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.5.1.png)       
+Here is the code: https://github.com/vvvvvvss/Matplotlib-and-Data-Visualisation
 
 
 ## TASK 3 - Numpy
