@@ -78,7 +78,7 @@ False negatives (FN): occur when the model predicts a negative data point incorr
 Here is the code: https://github.com/vvvvvvss/classification-matrices/blob/main/code.py
 
 ## Task 5 - Linear And Logistic Regression from scratch
-Linear And Logistic Regression from scratch implies building an algorthm for the same without relayimg on pre-built libraries or functions. This involves learning of the mathematical aspects behind the algorthm.    
+Linear And Logistic Regression from scratch implies building an algorthm for the same without relaying on pre-built libraries or functions. This involves learning of the mathematical aspects behind the algorthm.    
 ### Linear regression 
 aims at finding the best fit straight line that passes through the given data. This straight line provides the relationship between the independent variables and dependent variables. Simple linear regression can be written as      
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/d0c97d2c-d500-4ab1-b100-8a1f8b200bd1)     
