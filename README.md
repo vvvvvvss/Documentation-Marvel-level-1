@@ -110,11 +110,11 @@ Here is the blog: https://github.com/vvvvvvss/Neural-networks/blob/main/LLMs.md
 
 
 ## Task 8 - Mathematics behind machine learning
-Curve fitting: Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points.
-Here is the code: https://github.com/vvvvvvss/curve-fitting
+Curve fitting: Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points.        
+Here is the code: https://github.com/vvvvvvss/curve-fitting             
 Fourier Transforms: Fourier Transform is a mathematical model which helps to transform the signals between two different domains, such as transforming signal from frequency domain to time domain or vice versa. 
-Fourier transforms are found in almost everything these days, from digital music to quantum mechanics to image recognition. In simple terms, a fourier transfomer simplifies a wave into a sum of sine and cosine waves    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/895dc818-2c1e-4afc-a4f2-4e250fe8491a)       
+Fourier transforms are found in almost everything these days, from digital music to quantum mechanics to image recognition. In simple terms, a fourier transfomer simplifies a wave into a sum of sine and cosine waves         
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/895dc818-2c1e-4afc-a4f2-4e250fe8491a)            
 
 Here is the code: [https://github.com/vvvvvvss/Fourier-transformers](https://github.com/vvvvvvss/Fourier-transformers/blob/main/Fourier.ipynb)
 
