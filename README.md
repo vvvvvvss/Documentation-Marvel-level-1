@@ -3,14 +3,15 @@
 ### Linear Regression- 
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
 Linear regression predicts the relationship between two variables by assuming a linear connection between the independent and dependent variables.   
-I split our dataset into train and test sets (80% for training, and 20% for testing).       
+I split the california housing dataset into train and test sets (80% for training, and 20% for testing).       
 Here is the code: https://github.com/vvvvvvss/Linear-regression/blob/main/linear%20(1).ipynb
 
 ### Logistic Regression-
+Logistic regression estimates the probability of an event occuring. It provides a binary output, i.em 0 or 1.   
 The data tells that there are 3 different species of iris
-setosa: represented by 0
-versicolor: represnted by 1
-virginica: represented by 2
+setosa: represented by 0    
+versicolor: represnted by 1     
+virginica: represented by 2       
 Predicting the spices of a given iris using the sepal width and length and petal width and length.
 Each value we are predicting becomes the response here called the target.      
 Here is the code: https://github.com/vvvvvvss/Logistic-regression/blob/main/Logistic%20regression.ipynb
