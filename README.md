@@ -19,29 +19,39 @@ Here is the code: https://github.com/vvvvvvss/Logistic-regression/blob/main/Logi
 ## TASK 2 - Matplotlib and Data Visualisation
 Matplotlib is a plotting and data visualizing library for python programming. Using matplotlib, here are some plots on various datasets:      
 #### Simple sine and cosine wave     
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.png)
+![task2](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/12d762d2-fd29-41ce-ae3b-a9aeadd0c123)
+
 #### Line plot        
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.2.png)       
+![task2 2](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/a856a9e5-3cf0-4e15-8e8c-e0db7f42b572)       
 #### Scatter plot         
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.3.png)      
+![task2 3](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/70df57fc-804d-4d2d-85d4-3536744a3f4b)     
 #### Bar plot     
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.1.png)      
+![task2 4 1](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/f1cfece6-ef8b-4316-94c6-36b6147df368)
+      
 #### Stacked bar plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.2.png)    
+![task2 4 2](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/ab55adfc-1d87-4adb-ba77-50d0b73471dc)
+    
 #### Voilen plot        
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.3.png)     
+![task2 4 3](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/f04d59ea-32a6-4260-93a9-fd3fdd639d15)
+     
 #### Marginal plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.4.png)    
+![task2 4 4](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/da8d3daf-bd15-4ce6-8683-c611d15399a3)
+    
 #### 3D plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.5.png)      
+![task2 4 5](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/ee2a61ba-3614-4af2-b530-7cf0b66d6e01)
+      
 #### Filled Counter plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.2.png)    
+![task2 4 6 2](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/986e8645-5d68-4524-8742-900c985976e7)
+    
 #### Unfilled Counter plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.6.png)    
+![task2 4 6](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/090a9f4c-a0ce-49d7-a503-21945a262521)
+    
 #### Heat map plot    
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.4.7.png)        
+![task2 4 7](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/e2bf1551-db87-4539-9a3d-b9a357550821)
+        
 #### Histogram plot
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/blob/main/task2.5.1.png)       
+![task2 5 1](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/9f492a4b-053d-48b9-9b11-c22b99e2391e)
+       
 Here is the code: https://github.com/vvvvvvss/Matplotlib-and-Data-Visualisation
 
 
@@ -94,7 +104,8 @@ Here is the code: https://github.com/vvvvvvss/Logistic_Regression_from_SCRATCH
 
 ## Task 6 - K-Nearest Neighbors
 K-Nearest Neighbors (KNN) is a simple yet powerful algorithm used for both classification and regression tasks in machine learning. It's a type of instance-based learning, also known as lazy learning, where the algorithm doesn't explicitly build a model. Instead, it memorizes the entire training dataset and makes predictions based on the similarity of new instances to the existing data points. KNN calculates the distance between the new instance (or query point) and every point in the training dataset. Common distance metrics used include Euclidean distance. After calculating distances, KNN identifies the K nearest neighbors to the new instance. KNN often employs a simple majority voting rule for classification. In regression, the predicted value is the mean (or weighted mean) of the target values of the K nearest neighbors. To evaluate the performance of the KNN model, you typically use techniques such as cross-validation, where you partition the dataset into training and testing sets and measure metrics like accuracy, precision, recall, F1-score (for classification), or Mean Squared Error (MSE) (for regression).     
-![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/d951358b-05c3-4c7e-b4d4-e1dc9f72e5f2)       
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-1/assets/148562671/4522f6b7-837c-450c-bc4e-301abc0dac34)
+       
 
 
 ### KNN from scratch    
